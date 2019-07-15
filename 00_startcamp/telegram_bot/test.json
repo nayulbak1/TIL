@@ -1,0 +1,34 @@
+// {
+//     'update_id': 552201752, 
+//     'message': {
+//         'message_id': 17, 
+//         'from': {
+//             'id': 779293675, 
+//             'is_bot': False, 
+//             'first_name': 'Nayul', 
+//             'last_name': 'Bak', 
+//             'language_code': 'ko'
+//         }, 
+//         'chat': {
+//             'id': 779293675, 
+//             'first_name': 'Nayul', 
+//             'last_name': 'Bak', 
+//             'type': 'private'
+//         }, 
+//         'date': 1562897962, 
+//         'text': 'd'
+//     }
+// }
+
+{
+    'message': {
+        '@type': 'response', 
+        '@service': 'naverservice.nmt.proxy', 
+        '@version': '1.0.0', 
+        'result': {
+            'srcLangType': 'ko', 
+            'tarLangType': 'en', 
+            'translatedText': 'apple'
+        }
+    }
+}
