@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link href="10_float.css" rel="stylesheet">
+</head>
+
+<body>
+  <!--
+    float
+    해당 요소를 다음 요소 위에 떠다니게 만듦. 여기서 float 의미는 요소가 기본 레이아웃 흐름에서 벗어나 요소 모서리가 좌우로 이동하는 것.
+    주의사항
+    float를 사용할 때는 요소 위치를 고정시키는 position: absolute를 사용해선 안 됨.
+    relative 이동하면 과거 static이었던 공간도 차지한 상태로 이동.
+  -->
+
+  <div>div</div>
+  <div class="float-left">float-left</div>
+  <div calss="back">back</div>
+
+  <div class="float-left">1</div>
+  <div class="float-left">2</div>
+  <div class="float-right">3</div>
+  <div class="float-right">4</div>
+  <div class="back clear">back</div>
+</body>
+
+</html>
