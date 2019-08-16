@@ -7,6 +7,13 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Hi, Django!</h1>
+<!-- extends는 반드시 최상단에 -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+  <h1>Hi django !!!</h1>
+  <h2>{{ test }}</h2>
+{% endblock %}
+
 </body>
-</html>
