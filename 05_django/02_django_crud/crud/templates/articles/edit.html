@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+    <label for 
+    <input type="text" name="title" id="title" value="{{ article.title  }}">
+    <label for="content">CONTENT</label>
+    <textarea name="content" id="content" cols="30" rows="5">{{ article.content }}
+    <input type="submit" value="submit">
+  </form>
+  <a href="/articles/{{  article.pk  }}/">[back]</a>
+{% endblock %}
