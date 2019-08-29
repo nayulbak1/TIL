@@ -2,30 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1dc6a9c-9b98-450c-b910-4a20e6e66070" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4828.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4836.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4836.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/190729_Algorithm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/190730_Algorithm_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/190730_Algorithm_min max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/Practice1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/Practice2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/Practice3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/Practice4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/Practice5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/backtracking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/backtracking2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/drawing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/ex_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/quick_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/sum.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/열우선.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_algorithm/행우선.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06_jungol/1307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1204.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1204.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber2_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber4_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber5_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_problems.kr/bomber6_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/07_swea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07_swea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,51 +30,69 @@
     <session id="-358996838">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1394" />
+          <entry key="py" value="1748" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1394" />
+          <entry key="Python" value="1748" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4828.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4836.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1204.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4836.py">
+        <entry file="file://$PROJECT_DIR$/1204.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+            <state relative-caret-position="152">
+              <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -123,12 +134,14 @@
         <option value="$PROJECT_DIR$/4828.py" />
         <option value="$PROJECT_DIR$/4836.txt" />
         <option value="$PROJECT_DIR$/4836.py" />
+        <option value="$PROJECT_DIR$/1204.txt" />
+        <option value="$PROJECT_DIR$/1204.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="794" />
-    <option name="y" value="212" />
+    <option name="x" value="1152" />
+    <option name="y" value="213" />
     <option name="width" value="553" />
     <option name="height" value="717" />
   </component>
@@ -137,24 +150,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="07_swea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07_swea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,7 +168,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4836">
+  <component name="RunManager" selected="Python.1204">
+    <configuration name="1204" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1204.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4828" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,9 +235,11 @@
     <list>
       <item itemvalue="Python.4828" />
       <item itemvalue="Python.4836" />
+      <item itemvalue="Python.1204" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1204" />
         <item itemvalue="Python.4836" />
         <item itemvalue="Python.4828" />
       </list>
@@ -237,22 +260,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20738328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -281,17 +303,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4828.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4828.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -302,10 +317,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4828.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4836.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        <state relative-caret-position="228">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1204.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1204.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
         </state>
       </provider>
     </entry>
