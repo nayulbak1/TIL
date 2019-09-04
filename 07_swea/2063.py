@@ -1,0 +1,6 @@
+import sys; sys.stdin=open('2063.txt', 'r')
+T = int(input())
+N = list(map(int, input().split()))
+N.sort()
+# print(N[int(T/2)])
+print(N[T//2])
