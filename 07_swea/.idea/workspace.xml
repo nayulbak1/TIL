@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1dc6a9c-9b98-450c-b910-4a20e6e66070" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2063.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2070.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2071.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1933.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1938.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2029.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2056.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,40 +22,50 @@
     <session id="-358996838">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
-          <entry key="txt" value="9" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3639" />
-          <entry key="txt" value="44" />
+          <entry key="py" value="5763" />
+          <entry key="txt" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="3639" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="5763" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,12 +96,20 @@
         <option value="$PROJECT_DIR$/2063.py" />
         <option value="$PROJECT_DIR$/2050.txt" />
         <option value="$PROJECT_DIR$/2050.py" />
+        <option value="$PROJECT_DIR$/2056.txt" />
+        <option value="$PROJECT_DIR$/2056.py" />
+        <option value="$PROJECT_DIR$/2025.py" />
+        <option value="$PROJECT_DIR$/1938.py" />
+        <option value="$PROJECT_DIR$/2029.txt" />
+        <option value="$PROJECT_DIR$/2029.py" />
+        <option value="$PROJECT_DIR$/1933.py" />
+        <option value="$PROJECT_DIR$/2019.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1021" />
-    <option name="y" value="176" />
+    <option name="x" value="692" />
+    <option name="y" value="97" />
     <option name="width" value="748" />
     <option name="height" value="880" />
   </component>
@@ -104,7 +121,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2072.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2050.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -119,8 +136,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2050">
-    <configuration name="2050" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2019">
+    <configuration name="1933" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1933.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2063" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1938" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2063.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1938.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2068" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +191,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2070" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2025" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +212,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2070.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2071" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2029" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="07_swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2029.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,19 +243,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2071" />
-      <item itemvalue="Python.2070" />
-      <item itemvalue="Python.2068" />
-      <item itemvalue="Python.2063" />
-      <item itemvalue="Python.2050" />
+      <item itemvalue="Python.2025" />
+      <item itemvalue="Python.1938" />
+      <item itemvalue="Python.2029" />
+      <item itemvalue="Python.1933" />
+      <item itemvalue="Python.2019" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2050" />
-        <item itemvalue="Python.2063" />
-        <item itemvalue="Python.2068" />
-        <item itemvalue="Python.2070" />
-        <item itemvalue="Python.2071" />
+        <item itemvalue="Python.2019" />
+        <item itemvalue="Python.1933" />
+        <item itemvalue="Python.2029" />
+        <item itemvalue="Python.1938" />
+        <item itemvalue="Python.2025" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +273,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1021" y="176" width="748" height="880" extended-state="0" />
+    <frame x="692" y="97" width="748" height="880" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -387,20 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2050.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2050.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2050.txt" />
     <entry file="file://$PROJECT_DIR$/2063.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -410,6 +415,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2063.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2050.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2056.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2025.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2056.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1938.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2029.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1933.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1933.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
